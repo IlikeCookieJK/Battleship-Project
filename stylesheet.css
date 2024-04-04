@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+canvas {
+    width: 20vw !important;
+    height: 20vh !important;
+}
